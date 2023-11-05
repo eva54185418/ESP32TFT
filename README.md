@@ -24,28 +24,38 @@
 
 项目包括以下子项目：
 
-1. **ESP32点亮TFT基础范例**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=229079906&bvid=BV1jh411c7mN)
+1. **ESP32点亮TFT基础范例**：[参考视频](https://www.bilibili.com/video/BV1TN41117p5/?spm_id_from=333.999.0.0)
    - 爱心（Heart)
    - 黑客帝国特效(Matrix)
    - 旋转立方体(rotationCube)
    - TFT功能展示(testTFT)
+   
+2. **黑客帝国特效画面**：[参考视频](https://www.bilibili.com/video/BV1TN41117p5/?spm_id_from=333.999.0.0)
+   - matrixRain
+   
+3. **旋转立方体特效画面**：[参考视频](https://www.bilibili.com/video/BV1C14y1d7Jy/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b1394c3aac57c6527933240fc99ed4d7)
+   - 旋转立方体(rotationCube)
 
-2. **TFT显示图片**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=231367027&bvid=BV1D8411m7GG)
+4. **TFT功能展示**：[参考视频](https://www.bilibili.com/video/BV1TN41117p5/?spm_id_from=333.999.0.0)
+   - TFT功能展示(testTFT)
+
+5. **TFT显示图片**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=231367027&bvid=BV1D8411m7GG)
    - 测试图片
    - 伊娃老师制作软件
    - Arduino示范文档（一张图显示、动图显示）
    - Python开源代码
 
-3. **TFT显示中文多个字体**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=575068000&bvid=BV1yz4y1u7eV)
+6. **TFT显示中文多个字体**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=575068000&bvid=BV1yz4y1u7eV)
    - 伊娃老师制作软件
    - Arduino示范文档（中文显示）
 
-4. **TFT小时钟**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=961454852&bvid=BV1EH4y1U7cH)
+7. **TFT小时钟**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=961454852&bvid=BV1EH4y1U7cH)
    - 伊娃老师制作软件
    - 中秋图片
-   - Arduino示范文档（TFT_moonClock）
+   - Arduino示范文档（TFT_moonClock)
 
-5. **TFT函数说明**
+8. **TFT函数说明**
+
 
 ## 使用示例
 
