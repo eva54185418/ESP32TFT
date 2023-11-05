@@ -41,16 +41,16 @@
 
 5. **TFT显示图片**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=231367027&bvid=BV1D8411m7GG)
    - 测试图片
-   - 伊娃老师制作软件
+   - 伊娃老师制作软件[下载链接,提取码nxuj](https://pan.baidu.com/s/1U7_vUFwzu4pKsBL0Z0EfqA)
    - Arduino示范文档（一张图显示、动图显示）
    - Python开源代码
 
 6. **TFT显示中文多个字体**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=575068000&bvid=BV1yz4y1u7eV)
-   - 伊娃老师制作软件
+   - 伊娃老师制作软件[下载链接,提取码nxuj](https://pan.baidu.com/s/1U7_vUFwzu4pKsBL0Z0EfqA)
    - Arduino示范文档（中文显示）
 
 7. **TFT小时钟**：[参考视频](https://www.bilibili.com/list/7503488?sid=3471585&desc=1&oid=961454852&bvid=BV1EH4y1U7cH)
-   - 伊娃老师制作软件
+   - 伊娃老师制作软件[下载链接,提取码nxuj](https://pan.baidu.com/s/1U7_vUFwzu4pKsBL0Z0EfqA)
    - 中秋图片
    - Arduino示范文档（TFT_moonClock)
 
