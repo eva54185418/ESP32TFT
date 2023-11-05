@@ -1,0 +1,12 @@
+管理器地址：
+https://dl.espressif.com/dl/package_esp32_index.json
+https://github.com/Bodmer/TFT_eSPI
+
+
+脚位对应：
+TFT_SCLK：对应SCL
+TFT_MOSI：对应SDA 
+TFT_RST	：对应RES    
+TFT_DC	：对应DC     	
+TFT_CS	：对应CS
+TFT_BL	：对应BL    
